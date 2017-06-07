@@ -1,0 +1,10 @@
+# Configuration
+/phpspec.yml
+/phpunit.xml
+
+# Temporary
+/.php_cs.cache
+
+# Third party library
+/vendor
+/composer.lock
